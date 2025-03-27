@@ -11,3 +11,8 @@ The project consists of two main steps:
 
 Files in this Repository
 2223777.py - contains both steps
+
+How to Use
+1) Open the notebooks in Google Colab
+2) Run Step 1 code copying it 
+3) next for final output copy and run step 2
